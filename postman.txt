@@ -1,0 +1,5 @@
+http://localhost:8080/auth/realms/SpringBootKeycloak/.well-known/openid-configuration - GET
+http://localhost:8080/auth/realms/SpringBootKeycloak/protocol/openid-connect/token - POST
+http://localhost:8080/auth/realms/SpringBootKeycloak/protocol/openid-connect/token - POST
+http://localhost:8081/api/test/user - GET
+http://localhost:8081/api/test/admin - GET
